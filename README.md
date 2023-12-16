@@ -1,1 +1,7 @@
-# Pattern
+# invert right angle triangle Pattern
+
+*****
+ ****
+  ***
+   **
+    *
